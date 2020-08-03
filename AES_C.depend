@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1577973730 source:c:\projects\2019\aes_c\aes_c\main.c
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<errno.h>
+	<stdbool.h>
+	"./aes.h"
+	"./aes.c"
+
+1577634703 c:\projects\2019\aes_c\aes_c\aes.h
+
+1577810006 c:\projects\2019\aes_c\aes_c\aes.c
+	<assert.h>
+
